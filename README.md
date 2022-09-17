@@ -2,7 +2,7 @@
 - 👀 I’m interested in science and learning.
 - 🌱 I’m currently learning python and web development.
 - 💞️ I’m looking to collaborate on nothing! Just wanna have some fun.
-- 📫 How to reach me ...
+- 📫 How to reach me - Don't 
 
 <!---
 Sammy-Queens/Sammy-Queens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
